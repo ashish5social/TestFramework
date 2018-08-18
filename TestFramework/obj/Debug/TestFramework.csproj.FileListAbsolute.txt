@@ -1,0 +1,10 @@
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\bin\Debug\TestFramework.dll
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\bin\Debug\TestFramework.pdb
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\bin\Debug\WebDriver.dll
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\bin\Debug\WebDriver.Support.dll
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\bin\Debug\WebDriver.xml
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\bin\Debug\WebDriver.Support.xml
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\obj\Debug\TestFramework.csprojResolveAssemblyReference.cache
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\obj\Debug\TestFramework.dll
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\obj\Debug\TestFramework.pdb
+C:\sandbox\SeleniumTest\TestFramework\TestFramework\bin\Debug\geckodriver.exe
