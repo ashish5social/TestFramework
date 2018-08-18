@@ -25,6 +25,7 @@ namespace TestApplication
 		[TestCleanup]
 		public void Cleanup()
 		{
+			//added this to github 
 			Driver.Close(); 
 		}
 	}
