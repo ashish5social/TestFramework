@@ -1,7 +1,5 @@
 C:\sandbox\SeleniumTest\TestFramework\TestApplication\bin\Debug\TestApplication.dll
 C:\sandbox\SeleniumTest\TestFramework\TestApplication\bin\Debug\TestApplication.pdb
-C:\sandbox\SeleniumTest\TestFramework\TestApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\sandbox\SeleniumTest\TestFramework\TestApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\sandbox\SeleniumTest\TestFramework\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
 C:\sandbox\SeleniumTest\TestFramework\TestApplication\obj\Debug\TestApplication.dll
 C:\sandbox\SeleniumTest\TestFramework\TestApplication\obj\Debug\TestApplication.pdb
